@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php": ">=5.4",
+        "ext-mongo": "*",
+        "UnionOfRAD/lithium": "dev-master"
+    }
+}
