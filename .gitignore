@@ -1,3 +1,4 @@
+composer.lock
+vendor
 app/libraries/*
 app/resources/tmp/*
-vendor
