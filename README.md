@@ -22,9 +22,7 @@ The MongoDB connection may be configured in
 
 Load the provide sample data into the `demo.money` collection:
 
-```
-$ mongorestore -d demo -c money --drop ./money.bson
-```
+    $ mongorestore -d demo -c money --drop ./money.bson
 
   [1]: https://github.com/rozza
   [2]: https://github.com/rozza/demos
